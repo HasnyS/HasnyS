@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed</h1>
 <h3 align="center">A creative, detail-oriented, software developer</h3>
 
-- 📫 How to reach me **o.hasny@gmail.com**
 
 
 
